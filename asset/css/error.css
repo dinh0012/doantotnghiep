@@ -1,0 +1,40 @@
+/* 
+    Document   : error
+    Created on : May 19, 2015, 2:54:20 PM
+    Author     : ADMIN
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.ui-datepicker .ui-datepicker-prev span, .ui-datepicker .ui-datepicker-next span {display: none !important;}
+div .errorMessage{
+    text-align: left;
+    font-size: 13px;
+    color:  rgb(216, 17, 55);
+    padding: 2px;
+}
+.success-label{
+    line-height: 1.5;
+    text-align: justify;
+    padding: 2px;
+    font-size: 13px;
+}
+.success-label h5{
+     line-height: 1.5;
+     text-align: justify;
+     padding: 2px;
+}
+.form-group p{
+    text-align: left;
+    font-size: 13px;
+    color:  rgb(216, 17, 55);
+    padding: 2px;
+}
+.success-label p
+{
+    text-align: left;
+    font-size: 13px;
+    color:  rgb(216, 17, 55)!important;
+    padding: 2px;
+    margin-left: 10px;
+}
+
